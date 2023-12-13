@@ -1,5 +1,10 @@
 # 💫 About Me:
-Highly motivated Senior undergraduate Software Engineer aspiring to make an impact. Proficient in Java, Python and C++, Experienced in problem solving ,object oriented programming and backend web development. Constantly keen on expanding my knowledge and skills.<br>Protofolio:https://hussien-sayed.netlify.app/<br>📫 hussiens399@gmail.com
+Recent Computer Science graduate with fundamental knowledge of software design, development, testing, Debugging and problem solving.
+
+I have written many high qualities code, mainly backend applications using Java Spring Boot.
+These codes where checked by static code analysis tools like SonarQube to assure that Quality of this code. 
+
+Seeking to utilize broad educational background with excellent analytical, technical, and programming skills to thrive as an entry level software engineer. hussiens399@gmail.com
 
 
 ## 🌐 Socials:
