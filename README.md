@@ -4,7 +4,8 @@ Recent Computer Science graduate with fundamental knowledge of software design, 
 I have written many high qualities code, mainly backend applications using Java Spring Boot.
 These codes where checked by static code analysis tools like SonarQube to assure that Quality of this code. 
 
-Seeking to utilize broad educational background with excellent analytical, technical, and programming skills to thrive as an entry level software engineer. hussiens399@gmail.com
+Seeking to utilize broad educational background with excellent analytical, technical, and programming skills to thrive as an entry level software engineer. 
+Email: hussiens399@gmail.com
 
 
 ## 🌐 Socials:
