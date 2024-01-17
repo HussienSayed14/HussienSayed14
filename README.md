@@ -1,11 +1,19 @@
 # 💫 About Me:
-Recent Computer Science graduate with fundamental knowledge of software design, development, testing, Debugging and problem solving.
+Junior Software Engineer | Full-Stack Development | Passionate about Open Source
 
-I have written many high qualities code, mainly backend applications using Java Spring Boot.
-These codes where checked by static code analysis tools like SonarQube to assure that Quality of this code. 
+🎓 Background: Bachelor's Degree in Computer Science, specializing in Software Engineering. Proficient in full-stack web development using Java Spring Boot and React.js.
 
-Seeking to utilize broad educational background with excellent analytical, technical, and programming skills to thrive as an entry level software engineer. 
-Email: hussiens399@gmail.com
+💻 Professional Experience: Demonstrated expertise in developing small to medium scale projects, adaptable in both Monolith and Microservice architectures.
+
+📚 Academic Insights: A strong foundation in Algorithms, Data Structures, Databases, System Architecture, and other essential computer science topics, gained through rigorous academic training.
+
+🌟 Career Objective: Eager to apply my comprehensive educational background, analytical abilities, technical acumen, and programming prowess to achieve personal goals and make significant contributions to the open-source community.
+
+🤝 Let's Collaborate: I’m always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out for collaborations or just a chat!
+Your Could Reach me by email: hussiens399@gmail
+
+🔍 What I'm Exploring: Continuously learning and exploring new technologies, methodologies, and frameworks to stay updated in this ever-evolving tech landscape.
+
 
 
 ## 🌐 Socials:
