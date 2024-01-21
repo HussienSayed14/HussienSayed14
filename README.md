@@ -1,7 +1,7 @@
 # 💫 About Me:
 Junior Software Engineer | Full-Stack Development | Passionate about Open Source
 
-🎓 Background: Bachelor's Degree in Computer Science, specializing in Software Engineering. Proficient in full-stack web development using Java Spring Boot and React.js.
+🎓 Background: Bachelor's Degree in Computer Science, specializing in Software Engineering. Proficient in full-stack web development using Java Spring Boot, Node.JS and React.js.
 
 💻 Professional Experience: Demonstrated expertise in developing small to medium scale projects, adaptable in both Monolith and Microservice architectures.
 
