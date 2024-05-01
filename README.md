@@ -7,10 +7,10 @@ Junior Software Engineer | Full-Stack Development | Passionate about Open Source
 
 📚 Academic Insights: A strong foundation in Algorithms, Data Structures, Databases, System Architecture, and other essential computer science topics, gained through rigorous academic training.
 
-🌟 Career Objective: Eager to apply my comprehensive educational background, analytical abilities, technical acumen, and programming prowess to achieve personal goals and make significant contributions to the open-source community.
+🌟 Career Objective: Eager to apply my comprehensive educational background, analytical abilities, and programming skills to achieve personal goals and make significant contributions to the open-source community.
 
 🤝 Let's Collaborate: I’m always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out for collaborations or just a chat!
-Your Could Reach me by email: hussiens399@gmail
+Your Could Reach me by email: hussiens399@gmail.com
 
 🔍 What I'm Exploring: Continuously learning and exploring new technologies, methodologies, and frameworks to stay updated in this ever-evolving tech landscape.
 
